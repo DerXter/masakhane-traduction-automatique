@@ -24,9 +24,9 @@ Site Web: [masakhane.io](https://www.masakhane.io)
 [![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/0)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/0)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/1)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/1)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/2)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/2)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/3)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/3)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/4)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/4)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/5)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/5)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/6)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/6)[![](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/images/7)](https://sourcerer.io/fame/jaderabbit/masakhane-io/masakhane/links/7)
 
 ## Progression
-- Consultez notre pré-publication qui sera publiée dans le cadre des travaux de l'EMNLP 2020 [ici] (https://arxiv.org/pdf/2010.02353.pdf).
+- Consultez notre pré-publication qui sera publiée dans le cadre des travaux de l'EMNLP 2020 [ici](https://arxiv.org/pdf/2010.02353.pdf).
 - Consultez les benchmarks de traduction automatique que nous avons soumis [ici](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md) ! Vous ne voyez pas votre langue ? Veuillez soumettre une référence !
-- Consultez notre [article] (https://arxiv.org/pdf/2003.11529) qui sera publié lors de l'atelier AfricaNLP de l'ICLR 2020.
+- Consultez notre [article](https://arxiv.org/pdf/2003.11529) qui sera publié lors de l'atelier AfricaNLP de l'ICLR 2020.
 - Consultez les articles écrits par nos participants [ici](https://github.com/masakhane-io/masakhane-community/blob/master/publications.md)
 - En savoir plus sur nos [initiatives en cours](initiatives.md)
 - Consultez notre liste de [documents de la communauté](https://github.com/masakhane-io/masakhane-community/blob/master/community-documents.md)
@@ -44,7 +44,7 @@ Il existe de nombreuses façons de contribuer à **MASAKHANE**:
 6. **ADMIN** - Travailler avec autant de chercheurs peut être un véritable défi ! Aidez-nous à accomplir des tâches administratives.
 7. **CALCUL** - Aidez à l'infrastructure et au calcul ! Avez-vous un ordinateur libre à donner ? Faites-le nous savoir ! Nous sommes toujours à la recherche de nouveaux ordinateurs !
 8. **BRAINSTORM** - Participez à nos réunions hebdomadaires, donnez des conseils ou des idées.
-9. **Raconter nos aventures** - Raconter notre histoire au monde entier en organisant des conférences sur la communauté, en contribuant à notre [publication Medium] (https://medium.com/masakhane) ou en collaborant avec les médias.
+9. **Raconter nos aventures** - Raconter notre histoire au monde entier en organisant des conférences sur la communauté, en contribuant à notre [publication Medium](https://medium.com/masakhane) ou en collaborant avec les médias.
 10. **MLOps & ML Engineering** - Vous aimez vous plonger dans l'aspect MLOps de l'Apprentissage Automatique ? Êtes-vous un développeur logiciel cherchant à perfectionner vos compétences d'ingénieur ML ? Rejoignez-nous afin de contribuer à la création d'outils permettant la reproductibilité, la collecte de données ainsi que le partage de modèles !
 
 Vous souhaitez en savoir plus ? Consultez nos [initiatives en cours](initiatives.md)
